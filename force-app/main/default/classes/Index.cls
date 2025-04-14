@@ -6,5 +6,8 @@ public with sharing class Index {
         String f4;
         String f5;
         String f8;
+        String f6;
+        String f5;
+        String f7;
     }
 }
