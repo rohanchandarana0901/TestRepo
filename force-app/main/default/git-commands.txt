@@ -8,4 +8,7 @@
  git merge --squash feature
  git revert 0479c48   
  git cherry-pick 89ef444  
+
+ git clone <repository>
+ git checkout -b feature origin/feature
  
