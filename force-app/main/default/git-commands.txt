@@ -12,3 +12,7 @@
  git clone <repository>
  git checkout -b feature origin/feature
  
+
+
+ -- how to pull changes from another branch 
+ https://graphite.dev/guides/how-to-pull-from-another-branch-in-git
